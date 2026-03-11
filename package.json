@@ -1,9 +1,8 @@
 {
   "dependencies": {
-    "@prisma/client": "^7.4.1",
-    "axios": "^1.13.5",
-    "prisma": "^7.4.1",
-    "react-router-dom": "^7.13.0",
-    "tailwindcss": "^4.2.0"
+    "@react-three/fiber": "^9.5.0",
+    "expo-gl": "^55.0.9",
+    "expo-three": "^8.0.0",
+    "three": "^0.166.0"
   }
 }
